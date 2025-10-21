@@ -34,7 +34,7 @@ const data = {
   navGroups: [
     ,
     {
-      label: "Features",
+      label: "Dashboard",
       items: [
         {
           title: "Tasks",
