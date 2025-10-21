@@ -48,7 +48,7 @@ export default function TaskPage() {
   }
 
   return (
-    <BaseLayout title="Tasks" description="A task and issue tracker built using Tanstack Table.">
+    <BaseLayout title="Tasks" description="A task and issue tracke table.">
   
       <div className="md:hidden">
         <div className="flex items-center justify-center h-96 border rounded-lg bg-muted/20">
